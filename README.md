@@ -5,7 +5,7 @@ This is based on Open_CV bootcamp from OpenCV University
    
 2. Basic Image Manipulation:
    Concepts Covered:
-      a. Modifying Image pixels.
+      a. Modifying Image pixels.  
       b. Cropping Image.
       c. Resizing Image by Scaling actors fx and fy.
       d. Resizing Image by Specifying exact size of image.
