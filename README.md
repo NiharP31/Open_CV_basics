@@ -1,5 +1,5 @@
 # **Open_CV_basics**
-This is based on Open_CV bootcamp from OpenCV University.
+This Repository is based on Open_CV bootcamp from the OpenCV University.
 
 ## **1. Getting Started with Images**:
    
