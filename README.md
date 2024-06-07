@@ -9,6 +9,13 @@ This Repository is based on Open_CV bootcamp from the OpenCV University.
       c. Resizing Image by Scaling actors fx and fy.  
       d. Resizing Image by Specifying exact size of image.  
       e. Resizing Image by maintainng aspects ratio.  
-      f. Image Flipping on Horizontal, Vertical and Both axis
+      f. Image Flipping on Horizontal, Vertical and Both axis.
    
- ## **3. Image Annotation**
+ ## **3. Image Annotation**  
+       a. Draw a Line on Image.  
+       b. Draw a Circle on Image.  
+       c. Draw a Rectangle on Image.  
+       d. Adding Text on the Image.  
+
+       
+    
