@@ -11,11 +11,11 @@ This Repository is based on Open_CV bootcamp from the OpenCV University.
       e. Resizing Image by maintainng aspects ratio.  
       f. Image Flipping on Horizontal, Vertical and Both axis.
    
- ## **3. Image Annotation**  
-       a. Draw a Line on Image.  
-       b. Draw a Circle on Image.  
-       c. Draw a Rectangle on Image.  
-       d. Adding Text on the Image.  
+ ## **3. Image Annotation**:  
+      a. Draw a Line on Image.  
+      b. Draw a Circle on Image.  
+      c. Draw a Rectangle on Image.  
+      d. Adding Text on the Image.  
 
        
     
